@@ -1,8 +1,8 @@
 # justice-your-priority
-## Project10 | Interior-disign <a><button name="button" style = "color: red" onclick="https:">`HTML CSS` project 3</button></a>
+## Project 3 | justice-your-priority <a><button name="button" style = "color: red" onclick="https:">`HTML CSS` project 3</button></a>
 ### By mohanverse
 
-# Live Link-: [](justice-your-priority)
+# Live Link-: [justice-your-priority](justice-your-priority)
 
 ![project 3](./assests/Screenshot%20(69).png)
 
